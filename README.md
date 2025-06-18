@@ -111,10 +111,6 @@ The final `RFM_result` table contains:
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Support
 
 For questions or issues, please open a GitHub issue or contact the maintainer.
